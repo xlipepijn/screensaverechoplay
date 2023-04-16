@@ -1,0 +1,22 @@
+body {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  /* background: black; */
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000', GradientType=1);
+}
+
+#dvd {
+  position: absolute;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  /* color: #fff; */
+  font-size: 170px;
+  height: 160px;
+}
+
+#dvd img {
+    width: 150px;
+    height: 150px;
+}
